@@ -1,4 +1,3 @@
-0-main.py
 #!/usr/bin/python3
 lookup = __import__('0-lookup').lookup
 

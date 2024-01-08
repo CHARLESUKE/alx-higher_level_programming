@@ -1,4 +1,3 @@
-5-main.py
 #!/usr/bin/python3
 BaseGeometry = __import__('5-base_geometry').BaseGeometry
 
